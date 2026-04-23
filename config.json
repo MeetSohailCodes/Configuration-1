@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-22T01:06:00Z",
+  "updatedAt": "2026-04-22T02:06:00Z",
   "maintenance": {
     "enabled": false,
     "title": "Maintenance Mode",
@@ -12,7 +12,7 @@
       "latestVersion": "1.0.1",
       "blockedBuilds": [],
       "blockedVersions": [],
-      "blocking": false,
+      "blocking": true,
       "title": "Update Available!",
       "message": "Version 1.0.1 is available. Update now ❤️‍🔥",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.autodeal.cars"
