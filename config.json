@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-22T02:06:00Z",
+  "updatedAt": "2026-04-24T03:15:00Z",
   "maintenance": {
     "enabled": false,
     "title": "Maintenance Mode",
@@ -8,23 +8,23 @@
   },
   "updatePolicy": {
     "android": {
-      "minBuild": 101,
-      "latestVersion": "1.0.1",
-      "blockedBuilds": [],
-      "blockedVersions": [],
-      "blocking": true,
-      "title": "Update Available!",
-      "message": "Version 1.0.1 is available. Update now ❤️‍🔥",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.autodeal.cars"
-    },
-    "ios": {
-      "minBuild": 101,
-      "latestVersion": "1.0.1",
+      "minBuild": 100,
+      "latestVersion": "1.0.0",
       "blockedBuilds": [],
       "blockedVersions": [],
       "blocking": false,
       "title": "Update Available!",
-      "message": "Version 1.0.1 is available. Update now ❤️‍🔥",
+      "message": "Version 1.0.0 is available. Update now ❤️‍🔥",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.autodeal.cars"
+    },
+    "ios": {
+      "minBuild": 100,
+      "latestVersion": "1.0.0",
+      "blockedBuilds": [],
+      "blockedVersions": [],
+      "blocking": false,
+      "title": "Update Available!",
+      "message": "Version 1.0.0 is available. Update now ❤️‍🔥",
       "storeUrl": "https://apps.apple.com/app/idYOUR_APP_ID"
     }
   }
