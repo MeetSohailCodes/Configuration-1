@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-22T01:04:00Z",
+  "maintenance": {
+    "enabled": false,
+    "title": "Maintenance Mode",
+    "message": "We are improving AutoDeal. Please try again shortly."
+  },
+  "updatePolicy": {
+    "android": {
+      "minBuild": 100,
+      "latestVersion": "1.0.0",
+      "blockedBuilds": [],
+      "blockedVersions": [],
+      "blocking": false,
+      "title": "Update Available!",
+      "message": "Version 1.0.0 is available. Update now ❤️‍🔥",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.autodeal.cars"
+    },
+    "ios": {
+      "minBuild": 100,
+      "latestVersion": "1.0.0",
+      "blockedBuilds": [],
+      "blockedVersions": [],
+      "blocking": false,
+      "title": "Update Available!",
+      "message": "Version 1.0.0 is available. Update now ❤️‍🔥",
+      "storeUrl": "https://apps.apple.com/app/idYOUR_APP_ID"
+    }
+  }
+}
